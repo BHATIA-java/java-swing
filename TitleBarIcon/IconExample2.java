@@ -1,6 +1,8 @@
 package TitleBarIcon;
 
-import javax.swing.*;  
+import javax.swing.*;
+
+import ToolTip.ToolTipExample;
 
 import java.awt.*;  
 public class IconExample2 {   
@@ -13,6 +15,6 @@ f.setSize(200,200);
 f.setVisible(true);   
 }   
 public static void main(String args[]){   
-new ToolkitExample();   
+new ToolTipExample();   
 }   
 }  
